@@ -1,0 +1,6 @@
+D:\C#WorkSpace\chap02\chap02\bin\Debug\chap02.exe.config
+D:\C#WorkSpace\chap02\chap02\bin\Debug\chap02.exe
+D:\C#WorkSpace\chap02\chap02\bin\Debug\chap02.pdb
+D:\C#WorkSpace\chap02\chap02\obj\Debug\chap02.csprojResolveAssemblyReference.cache
+D:\C#WorkSpace\chap02\chap02\obj\Debug\chap02.exe
+D:\C#WorkSpace\chap02\chap02\obj\Debug\chap02.pdb
